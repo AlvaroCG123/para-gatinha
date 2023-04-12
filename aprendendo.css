@@ -36,7 +36,7 @@ input {
 }
 
 .botao {
-	background: url(imagens/botaocria.jpg);
+	background: #b60144;
 	width: 60%;
 	margin-top: 10px;
 	color: #fff;
@@ -44,7 +44,7 @@ input {
 }
 
 .botao:hover {
-	background: url(imagens/botaocria2.jpg);
+	background: #930036;
 	cursor: pointer;
 
 }
