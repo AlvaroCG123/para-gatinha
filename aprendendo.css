@@ -36,7 +36,7 @@ input {
 }
 
 .botao {
-	background: #b60144;
+	background: #db135c;
 	width: 60%;
 	margin-top: 10px;
 	color: #fff;
@@ -44,7 +44,7 @@ input {
 }
 
 .botao:hover {
-	background: #930036;
+	background: #b500436;
 	cursor: pointer;
 
 }
